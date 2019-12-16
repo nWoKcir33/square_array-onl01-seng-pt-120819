@@ -5,5 +5,3 @@ def square_array(array)
   end
   return my_array
 end
-
-square_array([1,2,3])
