@@ -3,6 +3,6 @@ def square_array(array)
   array.each do |n|
     my_array << n **2 
   end
-  
-endputs square_array(my_array)
+square_array(n)
+end
 
